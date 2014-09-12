@@ -4,6 +4,17 @@ Django MultiHostSettings
 
 Provides conditional settings according to the host name.
 
+Installation
+------------
+a. The latest stable version
+
+    pip install django-multihostsettings
+
+b. The under developement verson
+
+    pip install -e git+http://github.com/Swizz540/django-multihostsettings.git@master#egg=multihostsettings
+
+
 Quick start
 -----------
 

@@ -50,8 +50,3 @@ class LocalSettings():
         setattr(LocalSettings.__instance, key, value)
 
 localsettings = LocalSettings()
-
-
-
-def load_settings_from(file_name):
-    pass
